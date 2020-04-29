@@ -10,3 +10,6 @@ The dataset contains more than 50,000 images of different traffic signs. It is f
 Requirements:
 pip install tensorflow keras sklearn matplotlib pandas pil
 
+Dataset:
+https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
